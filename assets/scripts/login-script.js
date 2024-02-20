@@ -1,6 +1,6 @@
 /** @module Login-Script */
 /** 
-* Membuat variabel loginFormElement untuk tampilan form.
+* Membuat variabel loginFormElement untuk tampilan formm.
 * @constant {HTMLElement}
 */
 const loginFormElement = document.querySelector('#loginForm');
